@@ -2,7 +2,7 @@
 date: '2'
 title: 'Iminsi'
 cover: './iminsi.png'
-github: 'https://github.com/dartmouth-cs52-20S/project-iminsi'
+github: 'https://github.com/rohithm1/project-iminsi'
 tech:
   - React
   - Node.js
