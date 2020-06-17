@@ -1,38 +1,33 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Rohith Mandavilli | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'I am a software engineer based in Austin, TX who specializes in building exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Rohith Mandavilli, Rohith, Mandavilli, rohithm1, software engineer, back-end engineer, web developer, javascript, northeastern',
+  siteUrl: 'https://rohithmandavilli.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Rohith Mandavilli',
+  location: 'Austin, TX',
+  email: 'rohith.mandavilli.22@Dartmouth.edu',
+  github: 'https://github.com/rohithm1',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/rohithm1',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/rohith-mandavilli-b29bb2129/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/rohith.mandavilli/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.facebook.com/profile.php?id=100007134649081',
     },
   ],
 
@@ -66,7 +61,7 @@ module.exports = {
   srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
-    duration: 500,
+    duration: 700,
     delay,
     rotate: { x: 0, y: 0, z: 0 },
     opacity: 0,

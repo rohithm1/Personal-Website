@@ -5,15 +5,21 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Ruby on Rails
+  - Mongo/SQL
+  - R
+  - Python
+  - Firebase
+  - C
+  - Linux
+  - Bash
+  - Git
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Rohith, a software engineer based in Austin, TX.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy making technologies to improve the lives of others while learning at the same time. I am dedicated towards creating flawless, fast, and fascinating software.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am currently a rising junior at [Dartmouth College](https://darthub.dartmouth.edu//); I joined the engineering team at [DALI](http://dali.dartmouth.edu/) where students work with external partners with a need for engineers to complete innovative and meaningful projects.
 
 Here are a few technologies I've been working with recently:

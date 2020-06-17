@@ -1,8 +1,8 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Rohith Mandavilli <rohith.mandavilli.22@Dartmouth.edu>",
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
@@ -36,6 +36,7 @@
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.18.7",
+    "gatsby-cli": "^2.12.45",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-google-analytics": "^2.1.29",
     "gatsby-plugin-manifest": "^2.2.31",
