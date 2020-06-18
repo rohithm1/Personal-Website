@@ -3,7 +3,7 @@ date: '3'
 title: 'GoPhish'
 cover: './gophish.png'
 github: 'https://github.com/dali-lab/itc-phishing'
-external: 'https://gophish-dev.dartmouth.edu/'
+external: 'https://drive.google.com/file/d/1WZCMY9nFbccx8_y1XQOyUKBx16vFiOh-/view?usp=sharing'
 tech:
   - React
   - Postgres
