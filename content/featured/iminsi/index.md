@@ -1,13 +1,14 @@
 ---
-date: '2'
+date: '3'
 title: 'Iminsi'
 cover: './iminsi.png'
 github: 'https://github.com/rohithm1/project-iminsi'
 tech:
-  - React
-  - Node.js
-  - News API (among others)
+  - Unity
+  - C#
+  - Mongo
+  - Neural Networks
 showInProjects: true
 ---
 
-A mobile app created to crowdsource information in Africa to determine the authenticity of news articles and sources. Users sign on and rate articles based on trust, and our application takes that input to elimninate fake news.
+Built user-friendly, interactive application for learning the alphabet in ASL using the Oculus Quest through virtual reality. We created an immersive learning environment that will allow the user to access motion demonstration and practice from a friendly avatar.

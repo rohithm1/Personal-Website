@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Remote Ballot Registration'
 cover: './ballot.png'
 github: 'https://github.com/rohithm1/absentee-ballot-form'

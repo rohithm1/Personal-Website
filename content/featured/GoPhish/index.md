@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'GoPhish'
 cover: './gophish.png'
 github: 'https://github.com/dali-lab/itc-phishing'
