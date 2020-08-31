@@ -2,7 +2,8 @@
 date: '4 '
 title: 'Sign Language Virtual Reality'
 cover: './slar.png'
-github: 'https://github.com/rohithm1/project-iminsi'
+github: 'https://github.com/dali-lab/sign-language-ar'
+external: 'https://drive.google.com/file/d/1hMvy_gFut-WF_zYAOCyYkdC29aA39uPL/view?usp=sharing'
 tech:
   - React
   - Node.js
